@@ -1,0 +1,12 @@
+# Ignore app settings (copy to .example.env.* to check in example files)
+.env*
+
+# Logs
+log/*.log
+
+# Csv
+csv/*.csv
+test/*.csv
+
+#Config
+config/config.json
